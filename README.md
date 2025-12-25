@@ -8,9 +8,9 @@ This project contains a simple HTML recipe site.
 - Simple layout
 
 ## Pages
-Banana Chocolate Chip Bread Page
-Ginger-tea recipe Page
-Sabuti recipe Page
-And the home page 
+-Banana Chocolate Chip Bread Page
+-Ginger-tea recipe Page
+-Sabuti recipe Page
+-And the home page 
 
 Images are from different sources!
