@@ -1,0 +1,40 @@
+body {
+    color:#000000;
+    box-sizing: border-box;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: teal;  
+}
+
+h2 {
+    color: rgb(225, 65, 65);
+    margin: 20px auto;
+    font-size: 1.2em;
+}
+
+ul {
+    color: rgb(0, 119, 255);
+    list-style-type: square;
+}
+ol {
+    margin-bottom: 20px;
+}
+
+li {
+    margin: 8px auto;
+}
+
+span {
+    display: block;
+    color: rgb(225, 84, 65);
+    margin-bottom: 10px;
+}
+
+em {
+    color: rgb(0, 119, 255);
+}
+ img {
+    margin-bottom: 10px;
+ }
